@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "burbank@uchicago.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Data and packages for Stat 224 at UChicago.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
