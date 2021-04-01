@@ -1,6 +1,6 @@
 Package: stat224
 Title: Data and packages for Stat 224 at UChicago.
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: 
     person(given = "Kendra",
            family = "Burbank",
